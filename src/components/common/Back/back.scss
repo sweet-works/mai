@@ -1,0 +1,9 @@
+.back{
+  position: absolute;
+  left: .2rem;top:.2rem;z-index: 999;
+  span{display: inline-block;
+    width: .3rem;
+    height: .3rem;border-radius: 50%;background: rgba(0,0,0,.4);text-align: center;line-height: .3rem;
+    color: #fff;
+  }
+}

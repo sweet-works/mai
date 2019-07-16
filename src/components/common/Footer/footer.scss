@@ -1,0 +1,8 @@
+$f1:#f1f1f1;
+$foot-color:#ff5f16;
+.footer{background-color: #fff;position: fixed;bottom:0;height: 0.5rem;width: 3.75rem;z-index: 10;display: flex; border-top: 1px $f1 solid;
+    a{flex: 1;height: .5rem;text-align: center;display: flex;flex-direction: column;justify-content: center;color:#797d82;font-size: .12rem;
+        i{font-size: .16rem}
+   }
+   .activ{color: $foot-color;}
+}

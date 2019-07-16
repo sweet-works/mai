@@ -1,0 +1,50 @@
+.user {background-color: #f1f1f1;min-height: 7rem;;
+    .user-header{
+        box-sizing: border-box;
+        text-align: center;
+    margin-top: -44px;
+    height: 200px;
+    padding-left: 22px;
+    padding-top: 64px;
+    display: flex;
+    align-items: center;
+    height: 2rem;width: 3.75rem;
+    background: url(https://assets.maizuo.com/h5/v5/public/app/img/bg.6837f67.png);
+    background-size: cover;
+    .user-img{
+        img{width: 0.67rem;height: 0.67rem;border:.02rem #fff solid;border-radius: 50%;
+            margin-right: .1rem;
+        }}
+        .user-go a {color:#fff;font-size: .2rem}
+       
+}
+   .user-bar{height: 0.8rem;width: 100%;display: flex;background-color: #fff;
+        span{
+            flex: 1;display:flex;justify-items: center;flex-direction:column;
+           align-items: center;padding-top:.15rem;color:#797d82;font-size:.16rem;
+                 img{width: 0.26rem;height: 0.26rem;}
+            }
+        }
+    .user-list{background-color: #fff;
+        ul{
+            li{ 
+                height: .49rem;border-top:1px #f1f1f1 solid;padding:0 .15rem;
+                line-height: .49rem;position: relative;
+                img{
+                    width: 0.2rem;height: 0.2rem;position: absolute;top:.15rem;
+                    
+                }
+                span{display: inline-block;padding-left: .3rem;
+                   width: 3rem;
+                   em{float: right;font-style:normal}
+                }
+                i{float: right;margin-top: .15rem;}
+            }
+            li:nth-of-type(1){
+                border-top:10px #f1f1f1 solid;
+            }
+        }
+      input{height: .5rem; width: 3rem;background: #ff5f16;line-height: .5rem;text-align: center;font-size: .18rem;color: #f1f1f1;border-radius: .05rem;margin-top:.3rem;display: inline-block;margin-left:.35rem;margin-top: 1rem}
+    }
+   
+}

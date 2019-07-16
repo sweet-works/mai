@@ -1,0 +1,17 @@
+.login{padding:0 0.2rem;
+    .logo{
+        width: 3.35rem;height: 0.8rem;padding: .8rem 0 .4rem 0;text-align: center;
+        img{width: 0.8rem;height: 0.8rem;display: inline-block}
+    }
+    .login-from{
+        .users,.password,.passwords{
+            height: 0.55rem;border-bottom:1px #f1f1f1 solid;line-height: .55rem;
+        }
+        .submit{text-align: center;
+            input{height: .5rem; width: 3rem;background: #ff5f16;line-height: .5rem;text-align: center;font-size: .18rem;color: #f1f1f1;border-radius: .05rem;margin-top:.3rem;display: inline-block;}
+    }
+    a{display: block;color:#999;font-size: .14rem;padding-left: .2rem;direction: inherit;margin-top:.1rem;text-decoration:underline}
+} 
+
+    
+}

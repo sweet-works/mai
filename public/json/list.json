@@ -1,0 +1,479 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 4719,
+                "name": "监护风云",
+                "poster": "https://pic.maizuo.com/usr/movie/d17d669a27a6feefcd2cb355b20a3576.jpg",
+                "actors": [
+                    {
+                        "name": "泽维尔·勒格朗",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/23634c391a52cbd1d8a8643e4ecdc08b.jpg"
+                    },
+                    {
+                        "name": "蕾雅·德吕盖 ",
+                        "role": "米里亚姆",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/db83d58ff4506da7653b9fab7f2e9165.jpg"
+                    },
+                    {
+                        "name": "德尼·梅诺谢 ",
+                        "role": "安托万·贝",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a87b68e5bfe174aab443db663a9d1792.jpg"
+                    },
+                    {
+                        "name": "弗洛伦斯·詹纳斯饰",
+                        "role": "希尔维亚",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9d509ec4823191e0e02e9d435b1e6e7a.jpg"
+                    },
+                    {
+                        "name": "马蒂厄·赛卡利 ",
+                        "role": "萨缪尔",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0092d881ae8518404a58c92e2c097d0c.jpg"
+                    }
+                ],
+                "director": "泽维尔·勒格朗",
+                "category": "剧情",
+                "synopsis": "当米里亚姆（蕾雅·德吕盖 饰）跟丈夫安托万·北松（德尼·梅诺谢 饰）离婚后，她希望12 岁的儿子朱利安（托马斯·吉奥利亚）能够远离拥有暴力倾向的父亲，故向法庭申请单独扶养权。然而安托万成功在庭上说服法官，法官最终判处双方拥有共同监护权。大受打击的米里亚姆除了要接受未如所愿的裁判外，还要提防前夫别有用心的父亲。面对水火不容的双亲，身处夹缝中的朱利安不得不想尽一切办法，阻止家庭危机。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "法国",
+                "language": "英语",
+                "videoId": "XNDIzMjk1MzUyNA==",
+                "premiereAt": 1561075200,
+                "timeType": 3,
+                "runtime": 94,
+                "grade": "7.3",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4640,
+                "name": "音乐家",
+                "poster": "https://pic.maizuo.com/usr/movie/81be6125140c89e62b10313c2eb612c1.jpg",
+                "actors": [
+                    {
+                        "name": "胡军",
+                        "role": "冼星海",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9d59fa18abef86942c7515bfa1a416b5.jpg"
+                    },
+                    {
+                        "name": "别里克·艾特占诺夫",
+                        "role": "拜卡达莫夫",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fb017307bfc4240e7acc9a13901861c7.jpg"
+                    },
+                    {
+                        "name": "袁泉 ",
+                        "role": "钱韵玲",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8c604a277304c8d3c25bbfe3f7b94f87.jpg"
+                    }
+                ],
+                "director": " 西尔扎提·亚合甫",
+                "category": "剧情|历史",
+                "synopsis": "《音乐家》根据冼星海在阿拉木图的经历改编，赞颂人民音乐家在异国他乡遭受苦难却仍心系祖国的伟大精神。战时艰苦，冼星海在哈萨克斯坦隐姓埋名，却不忘寻找机会回到祖国。同时他的音乐《黄河大合唱》在遥远的延安时刻鼓舞着艰苦抗战的人民，激励无数有志青年为祖国顽强斗争。而在阿拉木图，他的音乐才华使他结识了当地音乐家拜卡达莫夫。两人建立了深厚友谊，正是他的音乐让不同的民族凝聚在一起，共同克服困难。他所作的《阿曼盖尔德》便是这样文化互相影响包容后的一个成果，对当地人民产生深刻影响，为两国的友谊发展奠定了坚实基础。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆  哈萨克斯坦",
+                "language": "汉语普通话  俄语",
+                "videoId": "",
+                "premiereAt": 1558051200,
+                "timeType": 3,
+                "runtime": 104,
+                "grade": "7.5",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4718,
+                "name": "上海的女儿",
+                "poster": "https://pic.maizuo.com/usr/movie/40d2a410252aa732b61d066bdeb61c1c.jpg",
+                "actors": [
+                    {
+                        "name": "陈苗",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/66b91a31f6d4d76557f0cf3216df3d19.jpg"
+                    },
+                    {
+                        "name": "周采芹",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/62c4938421d7e3c1ed4146dd08f40974.jpg"
+                    },
+                    {
+                        "name": "吴珊卓",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7b7ce6af0b67f6b8d69211c1f2834852.jpg"
+                    },
+                    {
+                        "name": "杜源",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4ee949bfd586bc6b94363306ba3e891a.jpg"
+                    },
+                    {
+                        "name": "温明娜",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/38edb7fa0423d048f63404be80afa9f9.jpg"
+                    }
+                ],
+                "director": "陈苗",
+                "category": "纪录片|传记",
+                "synopsis": "“人生本是戏”，艺术和生活的界限模糊了一个上海名门之后的海外闯荡，一个超逾时代的女性偶像，她就是周采芹Tsai Chin！从成为首位轰动西方的华裔邦女郎，到蜚声好莱坞的华裔演员，她历经繁华，也尝尽苦涩。周采芹刻入骨髓里的坚毅与傲气，使得耄耋之年的她，仍在表演艺术上坦荡无畏地续写传奇……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆 英国 美国",
+                "language": "汉语普通话 英语",
+                "videoId": "",
+                "premiereAt": 1546300800,
+                "timeType": 1,
+                "runtime": 90,
+                "grade": "7.8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4724,
+                "name": "逆流大叔",
+                "poster": "https://pic.maizuo.com/usr/movie/9b4dd34edce2ed2e2c444520cc0fe67d.jpg",
+                "actors": [
+                    {
+                        "name": "陈咏燊",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/73e8109bcc93767185bd5f10c03eb5fc.jpg"
+                    },
+                    {
+                        "name": "吴镇宇",
+                        "role": "陈龙",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d893a3dc5e13bebe66e5d946f4f2f7e6.jpg"
+                    },
+                    {
+                        "name": "黄德斌",
+                        "role": "黎家泰",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b98272256bf8db9cb4ce2d4166c8d76f.jpg"
+                    },
+                    {
+                        "name": "胡定欣",
+                        "role": "杨敏琪",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/664c017d6864f4688f3bfa706db08b93.jpg"
+                    },
+                    {
+                        "name": "潘灿良",
+                        "role": "黄淑仪",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1db4f77587c432bdfbc387968e405a4b.jpg"
+                    }
+                ],
+                "director": "陈咏燊",
+                "category": "剧情|运动|喜剧",
+                "synopsis": "男人，就是要逆流而上。阿龙(吴镇宇饰)、淑仪(潘灿良饰)、泰哥(黄德斌饰)、威廉(胡子彤饰)，四个高不成低不就、做事得过且过的宽频网络公司员工，见公司掀起了裁员风暴，为表对公司忠诚以「保饭碗」，误打误碰地加入了公司新成立的龙舟队！面对男人之苦，这班本来选择逃避的大叔们，坐到只许前进不许后退的龙舟之上，竟重拾了人生久违了的冲劲。一鼓作气的他们，不但参与了难度更高的长途龙舟大赛，更借着重新燃起的斗志，迈步去迎接自己人生里一道又一道的逆流…",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国香港",
+                "language": "粤语",
+                "videoId": "",
+                "premiereAt": 1561680000,
+                "timeType": 3,
+                "runtime": 92,
+                "grade": "8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4659,
+                "name": "追龙Ⅱ",
+                "poster": "https://pic.maizuo.com/usr/movie/f17937e5fb737ac2eea30109303b234a.jpg",
+                "actors": [
+                    {
+                        "name": "王晶",
+                        "role": " 导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/29800d9a754976638d18195361714020.jpg"
+                    },
+                    {
+                        "name": "关智耀 ",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c1b06a75d6ca9d6f39589d2f2843a5ae.jpg"
+                    },
+                    {
+                        "name": "梁家辉 ",
+                        "role": "龙志强",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5f242f334a94c7b778077b3272205751.jpg"
+                    },
+                    {
+                        "name": "古天乐",
+                        "role": " 何天",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/915832d32e8b1508fef4ce9db883af37.jpg"
+                    },
+                    {
+                        "name": "林家栋",
+                        "role": "博士",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a32d4c885f12d31bbd2fc069925248cd.jpg"
+                    }
+                ],
+                "director": "王晶   关智耀",
+                "category": "剧情|动作|犯罪",
+                "synopsis": "悍匪龙志强，在香港回归前，乘香港英政府不作为，而屡犯巨案，先后绑架富豪利家及雷家之长子，勒索超过二十亿元，事主怕被报复, 交赎款后都不敢报警。中国公安部极为关注，与香港警方合力，派香港警员何天卧底潜入龙志强犯罪团伙，发现他正策骑绑架澳门富豪贺不凡，终勇擒龙志强，救出贺不凡。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "香港   中国大陆",
+                "language": "粤语  汉语普通话",
+                "videoId": "",
+                "premiereAt": 1559779200,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "6.9",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4611,
+                "name": "大侦探皮卡丘 ",
+                "poster": "https://pic.maizuo.com/usr/movie/5abac14d599a4b78ea6161857026d293.jpg",
+                "actors": [
+                    {
+                        "name": " 罗伯·莱特曼 ",
+                        "role": " 导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/dd3dd83c92c87cdec7c3eadf73baa46d.jpg"
+                    },
+                    {
+                        "name": "瑞恩·雷诺兹",
+                        "role": " 皮卡丘",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8f8180b00ccbcf7a85c1cc44165b2bd5.jpg"
+                    },
+                    {
+                        "name": "凯瑟琳·纽顿 ",
+                        "role": " 露西",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1ddcc09e127a2867da03b7435e73ac09.jpg"
+                    },
+                    {
+                        "name": " 贾斯蒂斯·史密斯",
+                        "role": " 蒂姆·古德曼",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/abf9c73de28e11c558aafaa4e7022b53.jpg"
+                    }
+                ],
+                "director": "罗伯·莱特曼",
+                "category": "喜剧|动画|冒险",
+                "synopsis": "好莱坞真人电影《大侦探皮卡丘》（暂译）讲述了蒂姆·古德曼（贾 斯 提·史密斯饰） 为寻找下落不明的父亲来到莱姆市，意外与父亲的前宝可梦搭档大侦探皮卡丘相遇，并惊讶地发现自己是唯一能听懂皮卡丘说话的人类，他们决定组队踏上揭开真相的刺激冒险之路。探案过程中他们邂逅了各式各样 的宝可梦，并意外发现了一个足以毁灭整个宝可梦宇宙的惊天阴谋。该电影改编自任天堂3DS同名游戏，由罗伯·莱特曼导演，瑞安·雷诺兹为大侦探皮卡丘配音，贾斯提斯·史密斯、凯瑟琳·纽顿等主演。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国   日本",
+                "language": "英语  日语",
+                "videoId": "",
+                "premiereAt": 1557446400,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4715,
+                "name": "学区房72小时",
+                "poster": "https://pic.maizuo.com/usr/movie/3a5893dbea0a1d6cf5eefe783bba903c.jpg",
+                "actors": [
+                    {
+                        "name": "陈晓鸣",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8c5a6efc7887015cb8024d076eb3bf79.jpg"
+                    },
+                    {
+                        "name": "傅淼",
+                        "role": "刘家园",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/abc72e8482d585b623af30eefa3ebc85.jpg"
+                    },
+                    {
+                        "name": "徐幸",
+                        "role": "牛阿姨",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3ed9c3f22e056544c6f346ed054bf34a.jpg"
+                    },
+                    {
+                        "name": "管轩",
+                        "role": "傅重",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/55bd61c04924dc2c72060321529fd3f5.jpg"
+                    }
+                ],
+                "director": "陈晓鸣",
+                "category": "剧情",
+                "synopsis": "某大学副教授傅重（管轩 饰）为了让女儿进入市重点小学，在72小时内出售现有房子，凑足钱款，买下对口学校的学区房。由于时间紧迫，傅重不得不以200万价格降价出售，钟点工牛阿姨声称儿子小宝正急于购买婚房，拿出自己多年的积蓄，双方一拍即合，立刻签约。正在皆大欢喜的时候，傅重又接到坏消息——卖方坐地起价40万。傅重正为难之际，中介来电说有客户愿以市场价250万一次性付款购买傅重的住宅，这样，所有问题便可解决…… 而这位客户，正是有求于傅重的学生家长袁主席。是坚守诚信与牛阿姨履行合约，还是为孩子的未来，毁约将住宅高价转售他人，傅重面临两难抉择……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "XNDIyNTY3MjUwNA==",
+                "premiereAt": 1561680000,
+                "timeType": 3,
+                "runtime": 99,
+                "grade": "7.2",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4648,
+                "name": "X战警：黑凤凰",
+                "poster": "https://pic.maizuo.com/usr/movie/de755a4d06804a97e9765b6d0e1ffbe6.jpg",
+                "actors": [
+                    {
+                        "name": "西蒙·金伯格",
+                        "role": " 导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3656345d8cbb89b980bc60a0c663d2f3.jpg"
+                    },
+                    {
+                        "name": "苏菲·特纳 ",
+                        "role": "琴·格蕾",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/670a9142997a15f85bebc5a2bd3295f9.jpg"
+                    },
+                    {
+                        "name": "詹姆斯·麦卡沃伊",
+                        "role": "查尔斯教授",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fb1bf7f90c0bcaa22c2a2e7136e88d3b.jpg"
+                    },
+                    {
+                        "name": " 迈克尔·法斯宾德",
+                        "role": "万磁王埃里克·兰谢尔 ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9f28549b0134f70a6d595735e7d43c84.jpg"
+                    },
+                    {
+                        "name": "詹妮弗·劳伦斯",
+                        "role": "魔形女",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1a0649854a0f8220149ad335e52a928b.jpg"
+                    }
+                ],
+                "director": "西蒙·金伯格",
+                "category": "动作|科幻|冒险",
+                "synopsis": "影片剧情围绕X战警中最受欢迎成员之一的琴·葛蕾展开，讲述她逐渐转化为黑凤凰的故事。在一次危及生命的太空营救行动中，琴被神秘的宇宙力量击中，成为最强大的变种人。此后琴·葛蕾不仅要设法掌控日益增长、极不稳定的力量，更要与自己内心的恶魔抗争，她的失控让整个X战警大家庭分崩离析，也让整个星球陷入毁灭的威胁之中。《X战警：黑凤凰》是迄今为止气氛最紧张、情感最丰富的一部《X战警》电影，是《X战警》系列20年来的集大成之作，大家非常熟悉和热爱的变种人大家庭即将面对最为强大的敌人——而她恰恰还是他们中的一员。",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "美国",
+                "language": "英语",
+                "videoId": "",
+                "premiereAt": 1559779200,
+                "timeType": 3,
+                "runtime": 114,
+                "grade": "7.2",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4583,
+                "name": "特别追踪",
+                "poster": "https://pic.maizuo.com/usr/movie/bcaf7dd12f3a3f97fe4bffce6f85b6cd.jpg",
+                "actors": [
+                    {
+                        "name": "周浩东",
+                        "role": " 演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c122ce597875ee65a4e3ac01fc7c2b03.jpg"
+                    },
+                    {
+                        "name": "牛宝军 ",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f40da7f276f91c20a7c2d272e48a0cc1.jpg"
+                    },
+                    {
+                        "name": "李宜儒 ",
+                        "role": "演员  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/59c53aa4d4aeb1caf835ee10a3587441.jpg"
+                    }
+                ],
+                "director": "王启蘅",
+                "category": "犯罪",
+                "synopsis": "该片由最高人民法院影视中心、联播聚客（北京）国际传媒有限公司联合出品，山东省青岛市中级人民法院、青岛市即墨区人民法院联合摄制。影片通过讲述一个“拒不执行法院判决、裁定罪”的司法案例，刻画了失信被执行人在社会上遭遇的种种歧视与窘境，展现了各级人民法院开展执行攻坚的坚定决心，记录了法治中国建设的进步历程。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1537228800,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.6",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4624,
+                "name": "港珠澳大桥",
+                "poster": "https://pic.maizuo.com/usr/movie/5794eafc05b48d9e61d34c23cf6b261b.jpg",
+                "actors": [
+                    {
+                        "name": "闫东 ",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/bbf5a038a817e8ea53806460060277b3.jpg"
+                    }
+                ],
+                "director": "闫东",
+                "category": "纪录片",
+                "synopsis": "本片以港珠澳大桥建设最后一节沉管E30 号沉放安装过程为叙述主线，表现了中国桥梁建设者们自力更生、“敢为天下先”的创新精神和艰苦卓绝的奋斗历程，展示了大桥项目涉及水文、地质、白海豚、防台风和满足通航、海事、航空限高等复杂的建设难题，并将大桥主体工程桥、岛、隧三大部分的设计理念和世界领先的关键技术，如万花筒般呈现出来。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆   香港   澳门",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1556668800,
+                "timeType": 3,
+                "runtime": 70,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 51
+    },
+    "msg": "ok"
+}

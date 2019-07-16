@@ -1,0 +1,44 @@
+$list-color:#ff5f16;
+.list{
+    padding-bottom: .5rem;
+.list-nav{background-color: #fff;
+    height:.5rem;width: 3.75rem;border-bottom:1px #f1f1f1 solid;position: sticky;top:.45rem;z-index: 10;
+    span{float: left;;text-align: center;line-height: .5rem;height: .5rem;width: 50%;   
+        a{display:inline-block;width: 35%}
+    } 
+     span:hover a{
+        color:$list-color;border-bottom:.02rem $list-color solid;line-height: .5rem
+    } 
+}
+.list-film{
+    ul{
+        li{padding:.15rem;
+            height: .95rem;border-bottom:1px #f1f1f1 solid;
+            a{
+                .list-img{float: left;
+                   img {width: 0.66rem;height: 0.95rem;}
+
+                }
+                .list-title{
+                    box-sizing: border-box;padding:0 .1rem;
+                    width: 2.29rem;height: 0.95rem;float: left;
+                    .title{
+                        span{background:#d2d6dc; color:#fff;border-radius: .05rem}
+                    }
+                    p{font-size: .14rem;margin-top:.05rem;color:#797d82;
+                        width: 2rem;overflow: hidden;white-space: nowrap;text-overflow:ellipsis;
+                   
+                        .fen{color:$list-color;}
+                    }
+                }
+                .list-shop{
+                    height: 0.95rem;
+                    width: 0.5rem;float: right;line-height: 0.95rem;
+                    span{display: inline-block;width: 0.45rem;height: 0.2rem;border:1px solid $list-color; color:$list-color;text-align: center;
+                        line-height: .2rem;border-radius: .05rem}
+                }
+            }
+        }
+    }
+}
+}
